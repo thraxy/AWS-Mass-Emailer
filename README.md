@@ -25,7 +25,7 @@ The goal of this project is to develop a cost-effective emailing platform using 
 ## How we intend the project to work:
 
 1. The user will upload a CSV file that will trigger an S3 event
-2.The function in AWS Lambda will trigger another Lambda function for importing files onto the database and then sending emails to specific email addresses
+2. The function in AWS Lambda will trigger another Lambda function for importing files onto the database and then sending emails to specific email addresses
 
 
 
